@@ -1,4 +1,6 @@
-## Point Cloud Semantic Segmentation with Sparse and Inhomogeneous Annotations
+## [Point Cloud Semantic Segmentation with Sparse and Inhomogeneous Annotations](https://arxiv.org/pdf/2312.06259)
+
+[Zhiyi Pan](https://github.com/panzhiyi), Nan Zhang, Wei Gao, Shan Liu, Ge Li.
 
 #### Installation Guide
 

@@ -1,4 +1,4 @@
-### Point Cloud Semantic Segmentation With Sparse and Inhomogeneous Annotations
+## Point Cloud Semantic Segmentation with Sparse and Inhomogeneous Annotations
 
 #### Installation Guide
 

@@ -48,7 +48,7 @@ For homogeneous annotations, we provide three settings include 1% label rate, 20
 
 ```shell
 cd data
-gdown <the_link_will_be_released_latter>
+gdown https://drive.google.com/u/2/uc?id=1OUNKjw84hI3Xj9ucxRdNEpjGjt4Fbrg8
 tar -xvf ScanNet.tar
 ```
 
